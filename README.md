@@ -23,6 +23,8 @@
 <h3 align="left">Conecta Conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eduardo-ulloa-69b20233a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+</p>
+<br>
 
 
 - 🌱 Actualmete estoy aprendiendo a ser una Analista de Datos
