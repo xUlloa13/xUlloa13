@@ -15,3 +15,16 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 Actualmete estoy aprendiendo a ser una Analista de Datos
+
+- 📫 Como contactarme **eduardoulloalopez@gmail.com**
+
+- ⚡ Datos curiosos :- comida y Muica🎵 son las razones de vivir.
+
+<br>
