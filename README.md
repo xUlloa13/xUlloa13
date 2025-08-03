@@ -27,7 +27,7 @@
 <br>
 
 
-- 🌱 Actualmete estoy aprendiendo a ser una Analista de Datos
+- 🌱 Actualmete estoy aprendiendo a ser un Analista de Datos
 
 - 📫 Como contactarme **eduardoulloalopez@gmail.com**
 
